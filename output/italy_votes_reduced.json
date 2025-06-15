@@ -1,0 +1,107 @@
+[
+    {
+        "country": "IT",
+        "votes": [
+            {
+                "song_number": 24,
+                "count": 3952
+            },
+            {
+                "song_number": 3,
+                "count": 3917
+            },
+            {
+                "song_number": 6,
+                "count": 3991
+            },
+            {
+                "song_number": 5,
+                "count": 3992
+            },
+            {
+                "song_number": 4,
+                "count": 4129
+            },
+            {
+                "song_number": 22,
+                "count": 3982
+            },
+            {
+                "song_number": 13,
+                "count": 3992
+            },
+            {
+                "song_number": 16,
+                "count": 4038
+            },
+            {
+                "song_number": 18,
+                "count": 3999
+            },
+            {
+                "song_number": 14,
+                "count": 4048
+            },
+            {
+                "song_number": 17,
+                "count": 4004
+            },
+            {
+                "song_number": 21,
+                "count": 4066
+            },
+            {
+                "song_number": 10,
+                "count": 3995
+            },
+            {
+                "song_number": 7,
+                "count": 3945
+            },
+            {
+                "song_number": 15,
+                "count": 3961
+            },
+            {
+                "song_number": 1,
+                "count": 4059
+            },
+            {
+                "song_number": 23,
+                "count": 4003
+            },
+            {
+                "song_number": 19,
+                "count": 4115
+            },
+            {
+                "song_number": 12,
+                "count": 3933
+            },
+            {
+                "song_number": 20,
+                "count": 4010
+            },
+            {
+                "song_number": 25,
+                "count": 4065
+            },
+            {
+                "song_number": 9,
+                "count": 4050
+            },
+            {
+                "song_number": 8,
+                "count": 3952
+            },
+            {
+                "song_number": 2,
+                "count": 4004
+            },
+            {
+                "song_number": 11,
+                "count": 3798
+            }
+        ]
+    }
+]

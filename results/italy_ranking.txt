@@ -1,0 +1,30 @@
+
+[1;36mEurovision Overall Vote Ranking:[0m
+
+1. Song 4: 4129 votes
+2. Song 19: 4115 votes
+3. Song 21: 4066 votes
+4. Song 25: 4065 votes
+5. Song 1: 4059 votes
+6. Song 9: 4050 votes
+7. Song 14: 4048 votes
+8. Song 16: 4038 votes
+9. Song 20: 4010 votes
+10. Song 17: 4004 votes
+11. Song 2: 4004 votes
+12. Song 23: 4003 votes
+13. Song 18: 3999 votes
+14. Song 10: 3995 votes
+15. Song 5: 3992 votes
+16. Song 13: 3992 votes
+17. Song 6: 3991 votes
+18. Song 22: 3982 votes
+19. Song 15: 3961 votes
+20. Song 24: 3952 votes
+21. Song 8: 3952 votes
+22. Song 7: 3945 votes
+23. Song 12: 3933 votes
+24. Song 3: 3917 votes
+25. Song 11: 3798 votes
+
+[1;32mOverall Winner: Song 4 with 4129 votes[0m
